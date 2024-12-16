@@ -1,0 +1,5 @@
+body{
+    background: url(RESİMLER/besiktas.jpg) left top
+    no-repeat, url(RESİMLER/beyoglu.jpg) right bottom
+    no-repeat, red;
+}

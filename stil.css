@@ -1,0 +1,11 @@
+body{background-color: aqua;/*Arka plan rengi*/
+background-image: url(RESİMLER/istanbul.jpg) ;/*arka plana resim ekleme*/
+background-repeat: no-repeat;/*
+no-repeat tekrarlama işlemini yapma
+repeat-x yatayda tekrarla
+repeat-y dikeyde tekrarla
+repeat yatay ve dikeyde tekrarla varsayılan değerdir*/
+
+background-position: 10ww 10ww;
+
+}
